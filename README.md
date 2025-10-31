@@ -5,7 +5,7 @@ This project contains implementations related to **Computer Organization and Arc
 including **MIPS Assembly** programs and **Verilog** hardware design codes.
 
 ## Contents
-- MIPS Assembly codes for basic operations and algorithms  
+- MIPS Assembly codes for basic operations
 - Verilog modules for processor components and logic design  
 - Simulation and testing files
 
