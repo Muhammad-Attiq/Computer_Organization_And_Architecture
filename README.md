@@ -1,7 +1,7 @@
 
 # Computer Organization and Architecture
 
-This project contains implementations related to **Computer Organization and Architecture**,  
+This repo contains implementations related to **Computer Organization and Architecture**,  
 including **MIPS Assembly** programs and **Verilog** hardware design codes.
 
 ## Contents
