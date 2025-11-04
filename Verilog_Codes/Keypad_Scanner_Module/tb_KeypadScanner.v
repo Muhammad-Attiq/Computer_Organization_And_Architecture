@@ -1,4 +1,4 @@
-// TESTBENCH FOR THE KEYPAD SCANNER MODULE
+// TESTBENCH 
 `timescale 1ns/1ps 
 module tb_KeypadScanner; 
     reg [3:0] R; 
