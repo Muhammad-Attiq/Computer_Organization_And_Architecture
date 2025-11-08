@@ -7,6 +7,8 @@ module tb_pcplusadder;
   always #5 clk = ~clk;
   
   initial begin
+    $dumpfile("dump.vcd");
+    $dumpvars(0, tb_pcplusadder);
     clk = 0;
     enable = 0;
     rst = 1;
@@ -25,6 +27,6 @@ module tb_pcplusadder;
     rst = 1;
     #10;
     $display("After reset PC = %0d", pc);
-    
+    $finish;
   end
 endmodule
