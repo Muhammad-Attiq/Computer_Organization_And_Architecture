@@ -11,4 +11,4 @@ including **MIPS Assembly** programs and **Verilog** hardware design codes.
 
 ## Tools Used
 - MARS for MIPS Assembly  
-- ModelSim / Xilinx for Verilog simulation
+- ModelSim / Xilinx / EDA Playground for Verilog simulation
