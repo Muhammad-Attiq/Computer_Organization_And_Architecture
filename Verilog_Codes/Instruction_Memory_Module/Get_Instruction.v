@@ -8,7 +8,7 @@ module Get_Instruction(input clock,
     if(reset)
       PC <= 0;
     else 
-      PC <= PC + 32'b1;
+      PC <= PC + 4;
   end
 
   Instruction_Memory IM(
