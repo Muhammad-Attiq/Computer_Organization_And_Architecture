@@ -1,9 +1,9 @@
 `timescale 1ns / 1ps
 
 module Program_Counter(
-    input        clock,
-    input        reset,
-    input        enable,
+    input clock,
+    input reset,
+    input enable,
     output reg [3:0] pc
 );
 
