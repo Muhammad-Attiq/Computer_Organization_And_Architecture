@@ -16,13 +16,13 @@ module Instruction_Memory(
         memory[5] = 32'h01cf5020;  
         memory[6] = 32'h01494022;  
         memory[7] = 32'hac080004;  
-		    memory[8]  = 32'h00000000;  
-  		  memory[9]  = 32'h00000000;  
-  		  memory[10] = 32'h00000000;  
-  		  memory[11] = 32'h00000000; 
-  		  memory[12] = 32'h00000000;  
-  		  memory[13] = 32'h00000000;  
-	      memory[14] = 32'h00000000;  
+	    memory[8]  = 32'h00000000;  
+  		memory[9]  = 32'h00000000;  
+  		memory[10] = 32'h00000000;  
+  		memory[11] = 32'h00000000; 
+  		memory[12] = 32'h00000000;  
+  		memory[13] = 32'h00000000;  
+	    memory[14] = 32'h00000000;  
     end
 
     always @(*) begin
